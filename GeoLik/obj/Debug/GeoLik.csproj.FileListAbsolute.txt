@@ -1,0 +1,8 @@
+D:\Codes\GeoLik\GeoLik\bin\Debug\GeoLik.exe.config
+D:\Codes\GeoLik\GeoLik\bin\Debug\GeoLik.exe
+D:\Codes\GeoLik\GeoLik\bin\Debug\GeoLik.pdb
+D:\Codes\GeoLik\GeoLik\obj\Debug\GeoLik.csproj.AssemblyReference.cache
+D:\Codes\GeoLik\GeoLik\obj\Debug\GeoLik.csproj.SuggestedBindingRedirects.cache
+D:\Codes\GeoLik\GeoLik\obj\Debug\GeoLik.csproj.CoreCompileInputs.cache
+D:\Codes\GeoLik\GeoLik\obj\Debug\GeoLik.exe
+D:\Codes\GeoLik\GeoLik\obj\Debug\GeoLik.pdb
